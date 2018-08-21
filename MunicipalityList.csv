@@ -56,7 +56,7 @@
 013471,http://www.town.oshamambe.lg.jp/index.php,北海道,長万部町
 013617,http://www.hokkaido-esashi.jp/,北海道,江差町
 013625,http://www.town.kaminokuni.lg.jp/,北海道,上ノ国町
-013633,http://www.town.assabu.lg.jp/index.php,北海道,厚沢部町
+013633,https://www.town.assabu.lg.jp/index.php,北海道,厚沢部町
 013641,http://www.town.otobe.lg.jp/,北海道,乙部町
 013676,http://www.town.okushiri.lg.jp/,北海道,奥尻町
 013706,http://www.town.imakane.lg.jp/,北海道,今金町
@@ -233,7 +233,7 @@
 032051,https://www.city.hanamaki.iwate.jp/,岩手県,花巻市
 032069,https://www.city.kitakami.iwate.jp/,岩手県,北上市
 032077,https://www.city.kuji.iwate.jp/,岩手県,久慈市
-032085,http://www.city.tono.iwate.jp/index.cfm/1,html,岩手県
+032085,http://www.city.tono.iwate.jp/index.cfm/1,岩手県,遠野市
 032093,http://www.city.ichinoseki.iwate.jp/,岩手県,一関市
 032107,http://www.city.rikuzentakata.iwate.jp/,岩手県,陸前高田市
 032115,http://www.city.kamaishi.iwate.jp/,岩手県,釜石市
@@ -377,11 +377,11 @@
 073032,http://www.town.kunimi.fukushima.jp/,福島県,国見町
 073083,http://www.town.kawamata.lg.jp/,福島県,川俣町
 073229,https://www.vill.otama.fukushima.jp/,福島県,大玉村
-073423,http://www.town.kagamiishi.fukushima.jp/,福島県,鏡石町
+073423,https://www.town.kagamiishi.fukushima.jp/,福島県,鏡石町
 073440,http://www.vill.tenei.fukushima.jp/,福島県,天栄村
 073628,http://town.shimogo.fukushima.jp/,福島県,下郷町
 073644,http://www.hinoemata.com/,福島県,檜枝岐村
-073679,http://www.tadami.gr.jp/,福島県,只見町
+073679,https://www.tadami.gr.jp/,福島県,只見町
 073687,http://www.minamiaizu.org/,福島県,南会津町
 074021,http://www.vill.kitashiobara.fukushima.jp/,福島県,北塩原村
 074055,https://www.town.nishiaizu.fukushima.jp/,福島県,西会津町
@@ -895,7 +895,6 @@
 194301,https://www.town.fujikawaguchiko.lg.jp/,山梨県,富士河口湖町
 194425,http://www.vill.kosuge.yamanashi.jp/,山梨県,小菅村
 194433,https://www.vill.tabayama.yamanashi.jp/,山梨県,丹波山村
-2,https://www.town.saitama-miyoshi.lg.jp/,hoge,foo
 202011,https://www.city.nagano.nagano.jp/,長野県,長野市
 202029,https://www.city.matsumoto.nagano.jp/,長野県,松本市
 202037,https://www.city.ueda.nagano.jp/,長野県,上田市
@@ -1147,9 +1146,9 @@
 243035,https://www.town.kisosaki.lg.jp/,三重県,木曽岬町
 243248,http://www.town.toin.lg.jp/,三重県,東員町
 243418,http://www2.town.komono.mie.jp/www/index.html,三重県,菰野町
-243434,http://www2.town.asahi.mie.jp/www/index.html,三重県,朝日町
+243434,https://www2.town.asahi.mie.jp/www/index.html,三重県,朝日町
 243442,https://www.town.kawagoe.mie.jp/,三重県,川越町
-244414,http://www.town.taki.mie.jp/,三重県,多気町
+244414,https://www.town.taki.mie.jp/,三重県,多気町
 244422,http://www.town.meiwa.mie.jp/,三重県,明和町
 244431,http://www.odaitown.jp/,三重県,大台町
 244619,https://kizuna.town.tamaki.mie.jp/404.html,三重県,玉城町
@@ -1193,7 +1192,7 @@
 262013,http://www.city.fukuchiyama.kyoto.jp/,京都府,福知山市
 262021,https://www.city.maizuru.kyoto.jp/,京都府,舞鶴市
 262030,https://www.city.ayabe.lg.jp/,京都府,綾部市
-262048,http://www.city.uji.kyoto.jp/,京都府,宇治市
+262048,https://www.city.uji.kyoto.jp/,京都府,宇治市
 262056,http://www.city.miyazu.kyoto.jp/www/normal_top.jsp,京都府,宮津市
 262064,https://www.city.kameoka.kyoto.jp/,京都府,亀岡市
 262072,https://www.city.joyo.kyoto.jp/,京都府,城陽市
@@ -1240,7 +1239,7 @@
 271268,http://www.city.osaka.lg.jp/hirano/,大阪府,大阪市 平野区
 271276,http://www.city.osaka.lg.jp/kita/,大阪府,大阪市 北区
 271284,http://www.city.osaka.lg.jp/chuo/,大阪府,大阪市 中央区
-271403,http://www.city.sakai.lg.jp/,大阪府,堺市
+271403,https://www.city.sakai.lg.jp/,大阪府,堺市
 271411,https://www.city.sakai.lg.jp/sakai/index.html,大阪府,堺市 堺区
 271420,https://www.city.sakai.lg.jp/naka/index.html,大阪府,堺市 中区
 271438,https://www.city.sakai.lg.jp/higashi/index.html,大阪府,堺市 東区
@@ -1392,7 +1391,7 @@
 303437,https://www.town.kudoyama.wakayama.jp/,和歌山県,九度山町
 303445,https://www.town.koya.wakayama.jp/,和歌山県,高野町
 303615,http://www.town.yuasa.wakayama.jp/,和歌山県,湯浅町
-303623,http://www.town.hirogawa.wakayama.jp/,和歌山県,広川町
+303623,https://www.town.hirogawa.wakayama.jp/,和歌山県,広川町
 303666,http://www.town.aridagawa.lg.jp/,和歌山県,有田川町
 303810,http://www.town.mihama.wakayama.jp/,和歌山県,美浜町
 303828,http://www.town.wakayama-hidaka.lg.jp/,和歌山県,日高町
@@ -1425,7 +1424,7 @@
 313891,http://www.town.nanbu.tottori.jp/,鳥取県,南部町
 313904,http://www.houki-town.jp/,鳥取県,伯耆町
 314013,http://www.town.nichinan.lg.jp/,鳥取県,日南町
-314021,https://www.town.hino.tottori.jp/,鳥取県,日野町
+314021,http://www.town.hino.tottori.jp/,鳥取県,日野町
 314030,http://www.town-kofu.jp/,鳥取県,江府町
 322016,https://www.city.matsue.shimane.jp/,島根県,松江市
 322024,http://www.city.hamada.shimane.jp/www/toppage/0000000000000/APM03000.html,島根県,浜田市
@@ -1515,7 +1514,7 @@
 352063,https://www.city.hofu.yamaguchi.jp/,山口県,防府市
 352071,http://www.city.kudamatsu.lg.jp/,山口県,下松市
 352080,https://www.city.iwakuni.lg.jp/,山口県,岩国市
-352101,http://www.city.hikari.lg.jp/,山口県,光市
+352101,https://www.city.hikari.lg.jp/,山口県,光市
 352110,https://www.city.nagato.yamaguchi.jp/,山口県,長門市
 352128,http://www.city-yanai.jp/,山口県,柳井市
 352136,http://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html,山口県,美祢市
@@ -1532,7 +1531,7 @@
 362034,https://www.city.komatsushima.tokushima.jp/,徳島県,小松島市
 362042,http://www.city.anan.tokushima.jp/,徳島県,阿南市
 362051,http://www.city.yoshinogawa.lg.jp/,徳島県,吉野川市
-362069,http://www.city.awa.lg.jp/,徳島県,阿波市
+362069,https://www.city.awa.lg.jp/,徳島県,阿波市
 362077,http://www.city.mima.lg.jp/,徳島県,美馬市
 362085,https://www.miyoshi.i-tokushima.jp/,徳島県,三好市
 363014,http://www.town.katsuura.lg.jp/,徳島県,勝浦町
@@ -1541,7 +1540,7 @@
 363413,http://www.town.ishii.lg.jp/,徳島県,石井町
 363421,http://www.town.kamiyama.lg.jp/,徳島県,神山町
 363685,http://www.town.tokushima-naka.lg.jp/,徳島県,那賀町
-363839,http://www.town.tokushima-mugi.lg.jp/,徳島県,牟岐町
+363839,https://www.town.tokushima-mugi.lg.jp/,徳島県,牟岐町
 363871,https://www.town.minami.tokushima.jp/,徳島県,美波町
 363880,http://www.town.kaiyo.lg.jp/,徳島県,海陽町
 364011,http://www.town.matsushige.tokushima.jp/,徳島県,松茂町
@@ -1715,7 +1714,7 @@
 414239,http://www.town.omachi.saga.jp/,佐賀県,大町町
 414247,http://www.town.kouhoku.saga.jp/,佐賀県,江北町
 414255,https://www.town.shiroishi.lg.jp/,佐賀県,白石町
-414417,http://www.town.tara.lg.jp/,佐賀県,太良町
+414417,https://www.town.tara.lg.jp/,佐賀県,太良町
 422011,http://www.city.nagasaki.lg.jp/,長崎県,長崎市
 422029,http://www.city.sasebo.lg.jp/,長崎県,佐世保市
 422037,http://www.city.shimabara.lg.jp/,長崎県,島原市
